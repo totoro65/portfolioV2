@@ -1,7 +1,7 @@
 body {
   font-family:'Tourney', cursive;
   background-color:white;
-	background-image:url('wp1877434.png');
+	background-image:url('');
 	color: blue;
        font-size: 30px;
   
@@ -12,7 +12,7 @@ body {
 header {
  color: blue;
  background-color:silver;
- background-image:url('');
+ background-image:url('wp1836702.jpg');
   display:flex-center;
    padding: 60px 0;
    
@@ -23,7 +23,7 @@ header .row,
 footer .row {
   color:blue;
   background-color:silver;
-background-image: url ('');
+background-image: url ('wp1836702.jpg');
  
 
   
