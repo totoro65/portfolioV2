@@ -29,13 +29,13 @@ background-image:none;
   
  display: center;
   align-items: center;
-  color:black;
-  background-color:silver;
+  color:white;
+  background-color:black;
   
 }
 
 h1 {
-  color:black;
+  color:white;
   background-image:none;
   height: flex-bottom;
   font-weight: 16px;
@@ -45,8 +45,8 @@ h1 {
   
 
 nav {
- background-color:silver;
- color: black;
+ background-color:black;
+ color: white;
   display:flex-block;
   justify-content: flex-end;
 	display: center;
@@ -57,16 +57,16 @@ nav {
   
 
 a {
-color: black;
+color: white;
   padding: 21px ;
   margin:  21px;
 }
   
   a {
-	color: black; text-decoration: none;
+	color: whitz; text-decoration: none;
 }
 	a:hover {
-		color: black;
+		color:white;
 	}
 
 .jumbotron {
@@ -77,17 +77,17 @@ color: black;
 display :center-block;
 
   background-size:cover;
-  color:black;
-  background-color:silver;
+  color:white;
+  background-color:black;
   height: 11px;
 }
 
 .jumbotron h2 {
-background-image:silver;
+background-image:none;
   font-size: 16px;
   font-weight: 16px;
   margin: 8px;
-  color:black ;
+  color:white ;
  
 
  
@@ -98,14 +98,14 @@ background-image:silver;
 .jumbotron h3 {
   Font-size: 16px;
   margin: 0 0 8px;
-  color: black;
-  background-color:silver;
+  color: white;
+  background-color:black;
   display:center;
  
 }
 
 section .row img {
-  color:black;
+  color:white;
   display: center;
   
 
@@ -115,7 +115,7 @@ section .row img {
 }
 
 .col-md-6 {
-  color: black;
+  color: white;
   background-color: silver;
   margin: 0 0 auto;
 }
@@ -123,24 +123,24 @@ section .row img {
 .btn.btn-primary {
   border-radius: 9px;
   border: 9px;
-  color: black;
-  background-color:silver ;
+  color: white
+  background-color:black ;
 }
 
 .btn.btn-primary:hover {
-  color: black;
+  color: white;
   background-color: silver;
 	display: center;
 }
 
 .btn-secondary {
-  background-color:silver ;
-  color:black;
+  background-color:black ;
+  color:white;
   margin: 0 0 0 7px
 }
 .button {
   display: center;
-  color:black;
+  color:white;
   }
   
 .portrait {
@@ -151,10 +151,10 @@ section .row img {
 }
 
 figure img {
-  color:black;
+  color:whitek;
   width: 3px;
   height: 3px;
-  background-color:silver;
+  background-color:black;
 
 }
 
@@ -167,8 +167,8 @@ figure {
 footer {
   font-size: 7px;
   padding: 7px 0;
-  color:black;
-  background-color:silver;
+  color:white;
+  background-color:black;
 
 
 
@@ -177,13 +177,13 @@ footer {
 
 footer .col-sm-8 {
   background-color:black;
-  color:silver;
+  color:white;
   display: flex-center;
   justify-content: flex-end;
 }
 
 footer ul {
-  color:black;
-  background-color:silver;
+  color:white;
+  background-color:black;
   list-style: flex;
 }
