@@ -151,7 +151,7 @@ section .row img {
 }
 
 figure img {
-  color:whitek;
+  color:white;
   width: 3px;
   height: 3px;
   background-color:black;
@@ -160,7 +160,7 @@ figure img {
 
 figure {
   margin-bottom:none;
-  color:black;
+  color:blue;
 	display:center;
 }
 
