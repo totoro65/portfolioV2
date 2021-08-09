@@ -2,8 +2,8 @@ body {
   font-family:'Orbitron', sans-serif;
   background-color:black;
 	background-image:url(');
-	color: yellow;
-       font-size: 27px;
+	color: blue;
+       font-size: 21px;
   
   
   
@@ -16,7 +16,7 @@ header {
   display:flex-center;
    padding: 60px 0;
    
-   font-size:27px;
+   font-size:21px;
 }
 
 header .row,
