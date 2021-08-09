@@ -1,8 +1,8 @@
 body {
-  font-family:'Source Sans Pro', sans-serif;
+  font-family:'Orbitron', sans-serif;
   background-color:silver;
 	background-image:url('');
-	color: blue;
+	color: black;
        font-size: 30px;
   
   
@@ -10,7 +10,7 @@ body {
 }
 
 header {
- color: blue;
+ color: black;
  background-color:silver;
  background-image:url('');
   display:flex-center;
@@ -21,7 +21,7 @@ header {
 
 header .row,
 footer .row {
-  color:blue;
+  color:black;
   background-color:silver;
 background-image: url ('');
  
@@ -29,13 +29,13 @@ background-image: url ('');
   
  display: center;
   align-items: center;
-  color:blue;
+  color:black;
   background-color:silver;
   
 }
 
 h1 {
-  color:blue;
+  color:black;
   background-image:none;
   height: flex-bottom;
   font-weight: 16px;
@@ -46,7 +46,7 @@ h1 {
 
 nav {
  background-color:silver;
- color: blue;
+ color: black;
   display:flex-block;
   justify-content: flex-end;
 	display: center;
@@ -77,7 +77,7 @@ color: black;
 display :center-block;
 
   background-size:cover;
-  color:blue;
+  color:black;
   background-color:silver;
   height: 11px;
 }
@@ -87,7 +87,7 @@ background-image:silver;
   font-size: 16px;
   font-weight: 16px;
   margin: 8px;
-  color:blue ;
+  color:black ;
  
 
  
@@ -98,14 +98,14 @@ background-image:silver;
 .jumbotron h3 {
   Font-size: 16px;
   margin: 0 0 8px;
-  color: blue;
+  color: black;
   background-color:silver;
   display:center;
  
 }
 
 section .row img {
-  color:blue;
+  color:black;
   display: center;
   
 
@@ -115,7 +115,7 @@ section .row img {
 }
 
 .col-md-6 {
-  color: blue;
+  color: black;
   background-color: silver;
   margin: 0 0 auto;
 }
@@ -123,24 +123,24 @@ section .row img {
 .btn.btn-primary {
   border-radius: 9px;
   border: 9px;
-  color: blue;
+  color: black;
   background-color:silver ;
 }
 
 .btn.btn-primary:hover {
-  color: blue;
+  color: black;
   background-color: silver;
 	display: center;
 }
 
 .btn-secondary {
   background-color:silver ;
-  color:blue;
+  color:black;
   margin: 0 0 0 7px
 }
 .button {
   display: center;
-  color:blue;
+  color:black;
   }
   
 .portrait {
@@ -151,7 +151,7 @@ section .row img {
 }
 
 figure img {
-  color:blue;
+  color:black;
   width: 3px;
   height: 3px;
   background-color:silver;
@@ -160,14 +160,14 @@ figure img {
 
 figure {
   margin-bottom:none;
-  color:blue;
+  color:black;
 	display:center;
 }
 
 footer {
   font-size: 7px;
   padding: 7px 0;
-  color:blue;
+  color:black;
   background-color:silver;
 
 
@@ -176,14 +176,14 @@ footer {
 
 
 footer .col-sm-8 {
-  background-color:blue;
+  background-color:black;
   color:silver;
   display: flex-center;
   justify-content: flex-end;
 }
 
 footer ul {
-  color:blue;
+  color:black;
   background-color:silver;
   list-style: flex;
 }
