@@ -84,7 +84,7 @@ display :center-block;
 
 .jumbotron h2 {
 background-image:none;
-  font-size: 16px;
+  font-size: 27px;
   font-weight: 16px;
   margin: 8px;
   color:white ;
@@ -121,8 +121,8 @@ section .row img {
 }
 
 .btn.btn-primary {
-  border-radius: 9px;
-  border: 9px;
+  border-radius: 11px;
+  border: 11px;
   color: white
   background-color:black ;
 }
