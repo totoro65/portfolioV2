@@ -11,8 +11,9 @@ body {
 
 header {
  color: yellow;
- background-color:silver;
- background-image:url('');
+ background-color:#AB814F;
+background-color:silver;
+ background-image:url('NuPqfh.jpg');
   display:flex-center;
    padding: 60px 0;
    
@@ -23,7 +24,7 @@ header .row,
 footer .row {
   color:white;
   background-color:silver;
-background-image:url('');
+background-image:url('NuPqfh.jpg');
  
 
   
