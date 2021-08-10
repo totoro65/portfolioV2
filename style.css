@@ -177,14 +177,14 @@ footer {
 
 
 footer .col-sm-8 {
-  background-color:black;
-  color:yellow;
+  background-color:white;
+  color:black;
   display: flex-center;
   justify-content: flex-end;
 }
 
 footer ul {
-  color:yellow;
-  background-color:black;
+  color:black;
+  background-color:white;
   list-style: flex;
 }
