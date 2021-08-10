@@ -13,7 +13,7 @@ header {
  color: black;
  background-color:none;
 background-color:silver;
- background-image:url('887371.jpg');
+ background-image:url('');
   display:flex-center;
    padding: 60px 0;
    
@@ -24,7 +24,7 @@ header .row,
 footer .row {
   color:grey;
   background-color:silver;
-background-image:url('887371.jpg');
+background-image:url(');
  
 
   
