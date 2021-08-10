@@ -1,7 +1,7 @@
 body {
   font-family:'Orbitron', sans-serif;
   background-color:#AB814F;
-	background-image:url('paper-wallpaper-45974-47256-hd-wallpapers.jpg');
+	background-image:url('');
 	color: blue;
        font-size: 21px;
   
@@ -84,7 +84,7 @@ display :center-block;
 }
 
 .jumbotron h2 {
-background-image:none;
+background-image:url(paper-wallpaper-45974-47256-hd-wallpapers.jpg');
   font-size: 27px;
   font-weight: 16px;
   margin: 8px;
