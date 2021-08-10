@@ -13,7 +13,7 @@ header {
  color: black;
  background-color:#AB814F;
 background-color:silver;
- background-image:url('photo-1506744038136-46273834b3fb.jfif');
+ background-image:url('');
   display:flex-center;
    padding: 60px 0;
    
@@ -24,13 +24,13 @@ header .row,
 footer .row {
   color:white;
   background-color:silver;
-background-image:url('NuPqfh.jpg');
+background-image:url('');
  
 
   
  display: center;
   align-items: center;
-  color:yellow;
+  color:white;
   background-color:black;
   
 }
@@ -47,7 +47,7 @@ h1 {
 
 nav {
  background-color:black;
- color: yellow;
+ color: white;
   display:flex-block;
   justify-content: flex-end;
 	display: center;
@@ -58,16 +58,16 @@ nav {
   
 
 a {
-color: yellow;
+color: black;
   padding: 21px ;
   margin:  21px;
 }
   
   a {
-	color: yellow; text-decoration: none;
+	color: black; text-decoration: none;
 }
 	a:hover {
-		color:yellow;
+		color:black;
 	}
 
 .jumbotron {
@@ -78,8 +78,8 @@ color: yellow;
 display :center-block;
 
   background-size:cover;
-  color:yellow;
-  background-color:black;
+  color:black;
+  background-color:white;
   height: 11px;
 }
 
@@ -106,7 +106,7 @@ background-image:url(paper-wallpaper-45974-47256-hd-wallpapers.jpg');
 }
 
 section .row img {
-  color:yellow;
+  color:black;
   display: center;
   
 
@@ -116,7 +116,7 @@ section .row img {
 }
 
 .col-md-6 {
-  color: yellow;
+  color: black;
   background-color: silver;
   margin: 0 0 auto;
 }
@@ -124,24 +124,24 @@ section .row img {
 .btn.btn-primary {
   border-radius: 11px;
   border: 11px;
-  color:yellow;
+  color:white;
   background-color:black ;
 }
 
 .btn.btn-primary:hover {
-  color: yellow;
+  color:white;
   background-color: silver;
 	display: center;
 }
 
 .btn-secondary {
-  background-color:black ;
-  color:yellow;
+  background-color:white ;
+  color:black;
   margin: 0 0 0 7px
 }
 .button {
   display: center;
-  color:yellow;
+  color:black;
   }
   
 .portrait {
@@ -161,15 +161,15 @@ figure img {
 
 figure {
   margin-bottom:none;
-  color:blue;
+  color:black;
 	display:center;
 }
 
 footer {
   font-size: 7px;
   padding: 7px 0;
-  color:yellow;
-  background-color:black;
+  color:black;
+  background-color:white;
 
 
 
