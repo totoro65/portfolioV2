@@ -1,4 +1,5 @@
 # portfolioV2
+![photo-1570479590742-d1506c4d2360](https://github.com/totoro65/portfolioV2/blob/main/photo-1570479590742-d1506c4d2360.png?raw=true)
 ![bookxil](https://github.com/totoro65/portfolioV2/blob/main/bookxil.jfif?raw=true)
 ![Rc3fdd42cdb0a48f089ea4495cfca8f69](https://github.com/totoro65/portfolioV2/blob/main/Rc3fdd42cdb0a48f089ea4495cfca8f69.jpg?raw=true)
 ![Rd15fccbefbcf317d94f8a7ef83ec0218](https://github.com/totoro65/portfolioV2/blob/main/Rd15fccbefbcf317d94f8a7ef83ec0218.png?raw=true)
