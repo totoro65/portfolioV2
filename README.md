@@ -20,4 +20,4 @@
 ![R%20(4)](https://github.com/totoro65/portfolioV2/blob/main/R%20(4).jfif?raw=true)
 ![blue-skull-alone-sitting-crystal-abstract-fantasy-hd-wallpaper-39505](https://github.com/totoro65/portfolioV2/blob/main/blue-skull-alone-sitting-crystal-abstract-fantasy-hd-wallpaper-39505.jpg?raw=true)
 ![887371](https://github.com/totoro65/portfolioV2/blob/main/887371.jpg?raw=true)
-![portfolioV2/blob/main/Capture%20web_27-8-2021_6507_totoro65.github.io](https://github.com/totoro65/portfolioV2/blob/main/Capture%20web_27-8-2021_6507_totoro65.github.io.jpeg?raw=true)
+![Capture%20web_27-8-2021_6507_totoro65.github.io](https://github.com/totoro65/portfolioV2/blob/main/Capture%20web_27-8-2021_6507_totoro65.github.io.jpeg?raw=true)
