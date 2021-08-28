@@ -21,3 +21,4 @@
 ![Capture%20web_27-8-2021_7942_totoro65.github.io](https://github.com/totoro65/portfolioV2/blob/main/Capture%20web_27-8-2021_7942_totoro65.github.io.jpeg?raw=true)
 ![kissclipart-python-programming-a-beginners-guide-to-learn-py-c106bf0c27f1f5a5](https://github.com/totoro65/portfolioV2/blob/main/kissclipart-python-programming-a-beginners-guide-to-learn-py-c106bf0c27f1f5a5.jpg?raw=true)
 ![Capture%20d%E2%80%99%C3%A9cran%202021-08-28%20191645](https://github.com/totoro65/CHOPPER/blob/main/Capture%20d%E2%80%99%C3%A9cran%202021-08-28%20191645.png?raw=true)
+![caine-lanigan-chess-set-2](https://github.com/totoro65/portfolioV2/blob/main/caine-lanigan-chess-set-2.jpg?raw=true)
