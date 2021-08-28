@@ -10,9 +10,9 @@ body {
 }
 
 header {
- color: black;
+ color: silver;
  background-color:none;
-background-color:silver;
+background-color:black;
  background-image:url('');
   display:flex-center;
    padding: 60px 0;
@@ -177,14 +177,14 @@ footer {
 
 
 footer .col-sm-8 {
-  background-color:white;
-  color:black;
+  background-color:black;
+  color:white;
   display: flex-center;
   justify-content: flex-end;
 }
 
 footer ul {
-  color:black;
-  background-color:white;
+  color:white;
+  background-color:black;
   list-style: flex;
 }
