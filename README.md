@@ -31,3 +31,4 @@
 ![cyberpunk_by_clintcearley_dc527eb-pre](https://github.com/totoro65/portfolioV2/blob/main/cyberpunk_by_clintcearley_dc527eb-pre.jpg?raw=true)
 ![alena-aenami-coldredlight](https://github.com/totoro65/portfolioV2/blob/main/alena-aenami-coldredlight.jpg?raw=true)
 ![Capture%20d%E2%80%99%C3%A9cran%202021-08-28%20191645](https://github.com/totoro65/portfolioV2/blob/main/Capture%20d%E2%80%99%C3%A9cran%202021-08-28%20191645.png?raw=true)
+![Gimp-Logo](https://github.com/totoro65/portfolioV2/blob/main/Gimp-Logo.png?raw=true)
