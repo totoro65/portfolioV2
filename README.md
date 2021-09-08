@@ -38,3 +38,4 @@
 ![marek-piwnicki-czditM25QC4-unsplash](https://github.com/totoro65/portfolioV2/blob/main/marek-piwnicki-czditM25QC4-unsplash.jpg?raw=true)
 ![cottais-florian-lego01](https://github.com/totoro65/portfolioV2/blob/main/cottais-florian-lego01.jpg?raw=true)
 ![image%20pour%20certification%20cyber](https://github.com/totoro65/portfolioV2/blob/main/image%20pour%20certification%20cyber.png)
+![dolly-chris-20210906130309](https://github.com/totoro65/portfolioV2/blob/main/dolly-chris-20210906130309.jpg?raw=true)
