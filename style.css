@@ -57,16 +57,16 @@ nav {
   
 
 a {
-color: black;
+color: white;
   padding: 21px ;
   margin:  21px;
 }
   
   a {
-	color: black; text-decoration: blink;
+	color: white; text-decoration: blink;
 }
 	a:hover {
-		color:#a6f0af:;
+		color:white;
 	}
 
 .jumbotron {
@@ -77,7 +77,7 @@ color: black;
 display :center-block;
 
   background-size:cover;
-  color:black;
+  color:white;
   background-color:white;
   height: 11px;
 }
@@ -105,7 +105,7 @@ background-image:url('');
 }
 
 section .row img {
-  color:black;
+  color:white;
   display: center;
   
 
@@ -115,7 +115,7 @@ section .row img {
 }
 
 .col-md-6 {
-  color: black;
+  color: white;
   background-color:#a6f0af ;
   margin: 0 0 auto;
 }
@@ -140,7 +140,7 @@ section .row img {
 }
 .button {
   display: center;
-  color:black;
+  color:white;
   }
   
 .portrait {
@@ -160,15 +160,15 @@ figure img {
 
 figure {
   margin-bottom:none;
-  color:black;
+  color:white;
 	display:center;
 }
 
 footer {
   font-size: 7px;
   padding: 7px 0;
-  color:black;
-  background-color:white;
+  color:white;
+  background-color:blak;
 
 
 
