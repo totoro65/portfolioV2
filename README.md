@@ -44,4 +44,4 @@
 ![wp4735218](https://github.com/totoro65/portfolioV2/blob/main/wp4735218.jpg?raw=true)
 ![wp6236166](https://github.com/totoro65/portfolioV2/blob/main/wp6236166.webp?raw=true)
 ![wp6236300](https://github.com/totoro65/portfolioV2/blob/main/wp6236300.webp?raw=true)
-![istockphoto-1133192531-1024x1024](https://github.com/totoro65/portfolioV2/blob/main/istockphoto-1133192531-1024x1024.jpg?raw=true)
+
