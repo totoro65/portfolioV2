@@ -13,7 +13,7 @@ body {
 header {
  color: white;
  background-color:#a6f0af;
- background-image:black;
+ background-image:url("wp4471205.png");
   display:flex-center;
    padding: 60px 0;
    
@@ -24,7 +24,7 @@ header .row,
 footer .row {
   color:grey;
   background-color:silver;
-background-image:url(');
+background-image:url('wp4471205.png');
  
 
   
