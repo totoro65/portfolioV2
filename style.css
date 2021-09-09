@@ -3,7 +3,7 @@ body {
   background-color:#a6f0af;
 	background-image:url('future.jpg');
 	background-image:url()
-	color: black;
+	color: white;
        font-size: 21px;
   
   
@@ -11,8 +11,8 @@ body {
 }
 
 header {
- color: white;
- background-color:#a6f0af;
+ color: red;
+ background-color:white;
  background-image:url("wp4471205.png");
   display:flex-center;
    padding: 60px 0;
@@ -22,8 +22,8 @@ header {
 
 header .row,
 footer .row {
-  color:grey;
-  background-color:silver;
+  color:white;
+  background-color:black;
 background-image:url('wp4471205.png');
  
 
