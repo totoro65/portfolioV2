@@ -13,7 +13,6 @@
 ![arteum-ro-7H41oiADqqg-unsplash](https://github.com/totoro65/portfolioV2/blob/main/arteum-ro-7H41oiADqqg-unsplash.jpg?raw=true)
 ![Capture%20web_10-8-2021_19454_totoro65.github.io](https://github.com/totoro65/portfolioV2/blob/main/Capture%20web_10-8-2021_19454_totoro65.github.io.jpeg?raw=true)
 ![IMG_20210712_135419923_HDR](https://github.com/totoro65/portfolioV2/blob/main/IMG_20210712_135419923_HDR.jpg?raw=true)
-![future](https://github.com/totoro65/portfolioV2/blob/main/future.jpg?raw=true)
 ![alonzo-reyna-5](https://github.com/totoro65/portfolioV2/blob/main/alonzo-reyna-5.jpg?raw=true)
 ![887371](https://github.com/totoro65/portfolioV2/blob/main/887371.jpg?raw=true)
 ![Capture%20web_27-8-2021_6507_totoro65.github.io](https://github.com/totoro65/portfolioV2/blob/main/Capture%20web_27-8-2021_6507_totoro65.github.io.jpeg?raw=true)
