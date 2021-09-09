@@ -10,7 +10,7 @@ body {
 }
 
 header {
- color: red;
+ color:black ;
  background-color:white;
  background-image:url("istockphoto-1133192531-1024x1024.jpg");
   display:flex-center;
