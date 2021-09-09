@@ -7,15 +7,15 @@ body {
 
 
 .zoom {
-  height:400px;
+  height:100px;
 }
 .zoom p {
   text-align:center;
 }
 .zoom img {
-  width:200px;
-  height:267px;
+  width:50px;
+  height:100px;
 }
 .zoom img:hover {
-  width:300px;
-  height:400px;
+  width:55px;
+  height:111px;
