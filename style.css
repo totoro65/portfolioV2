@@ -12,7 +12,7 @@ body {
 
 header {
  color: silver;
- background-color:none;
+ background-color:#a6f0af;
 background-color:black;
  background-image:url('');
   display:flex-center;
@@ -38,7 +38,7 @@ background-image:url(');
 
 h1 {
   color:white;
-  background-image:none;
+  background-image:#a6f0af;
   height: flex-bottom;
   font-weight: 16px;
   margin: 19px;
@@ -68,7 +68,7 @@ color: black;
 	color: black; text-decoration: blink;
 }
 	a:hover {
-		color:black;
+		color:#a6f0af:;
 	}
 
 .jumbotron {
@@ -89,7 +89,7 @@ background-image:url('');
   font-size: 27px;
   font-weight: 16px;
   margin: 8px;
-  color:grey ;
+  color:black ;
  
 
  
@@ -118,7 +118,7 @@ section .row img {
 
 .col-md-6 {
   color: black;
-  background-color: silver;
+  background-color:#a6f0af ;
   margin: 0 0 auto;
 }
 
@@ -136,8 +136,8 @@ section .row img {
 }
 
 .btn-secondary {
-  background-color:white ;
-  color:black;
+  background-color:black ;
+  color:white;
   margin: 0 0 0 7px
 }
 .button {
