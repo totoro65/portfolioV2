@@ -48,3 +48,4 @@
 ![wp1895395](https://github.com/totoro65/portfolioV2/blob/main/wp1895395.png?raw=true)
 ![uwp1379472](https://github.com/totoro65/portfolioV2/blob/main/uwp1379472.jpeg?raw=true)
 ![Anothermodif](https://github.com/totoro65/portfolioV2/blob/main/Anothermodif.jpeg?raw=true)
+![qrcode_www.codecadem](https://github.com/totoro65/portfolioV2/blob/main/qrcode_www.codecademy.com.png?raw=true)
