@@ -1,4 +1,5 @@
 # portfolioV2
+![background](https://github.com/totoro65/portfolioV2/blob/main/background.png?raw=true)
 ![boite-logo-vide](https://github.com/totoro65/portfolioV2/blob/main/boite-logo-vide.png?raw=true)
 ![pexels-thisisengineering-3861969](https://github.com/totoro65/portfolioV2/blob/main/pexels-thisisengineering-3861969.jpg?raw=true)
 ![pexels-markus-spiske-4383298](https://github.com/totoro65/portfolioV2/blob/main/pexels-markus-spiske-4383298.jpg?raw=true)
