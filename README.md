@@ -45,7 +45,6 @@
 ![creative-css3-tutorials](https://github.com/totoro65/portfolioV2/blob/main/creative-css3-tutorials.jpg?raw=true)
 ![cottais-florian-lego01](https://github.com/totoro65/portfolioV2/blob/main/cottais-florian-lego01.jpg?raw=true)
 ![image%20pour%20certification%20cyber](https://github.com/totoro65/portfolioV2/blob/main/image%20pour%20certification%20cyber.png)
-![wp6067272](https://github.com/totoro65/portfolioV2/blob/main/wp6067272.jpg?raw=true)
 ![wp4735216](https://github.com/totoro65/portfolioV2/blob/main/wp4735216.jpg?raw=true)
 ![wp4735218](https://github.com/totoro65/portfolioV2/blob/main/wp4735218.jpg?raw=true)
 ![wp6236166](https://github.com/totoro65/portfolioV2/blob/main/wp6236166.webp?raw=true)
