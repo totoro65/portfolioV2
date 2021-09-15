@@ -17,7 +17,7 @@ body {
 }
 
 header {
- color:black ;
+ color:grey ;
  background-color:white;
  background-image:url("background.png");
   display:flex-center;
@@ -28,7 +28,7 @@ header {
 
 header .row,
 footer .row {
-  color:black;
+  color:grey;
   background-color:none;
 background-image:url('background.png');
  
@@ -42,7 +42,7 @@ background-image:url('background.png');
 }
 
 h1 {
-  color:black;
+  color:grey;
    
   height: flex-bottom;
   font-weight: 16px;
