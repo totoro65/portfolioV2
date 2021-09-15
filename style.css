@@ -18,8 +18,8 @@ body {
 
 header {
  color:black ;
- background-color:white;
- background-image:url("boite-logo-vide.png");
+ background-color:silver;
+ background-image:url("background.png");
   display:flex-center;
    padding: 60px 0;
    
