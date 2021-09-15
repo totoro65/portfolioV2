@@ -7,9 +7,9 @@
 
 body {
   font-family:'Orbitron', sans-serif;
-  background-color:black;
+  background-color:silver;
 	background-image:url('background.png');
-	color: white;
+	color: black;
        font-size: 21px;
   
   
@@ -29,7 +29,7 @@ header {
 header .row,
 footer .row {
   color:black;
-  background-color:white;
+  background-color:none;
 background-image:url('boite-logo-vide.png');
  
 
@@ -42,8 +42,8 @@ background-image:url('boite-logo-vide.png');
 }
 
 h1 {
-  color:white;
-  background-image:#a6f0af;
+  color:black;
+   
   height: flex-bottom;
   font-weight: 16px;
   margin: 19px;
@@ -52,7 +52,7 @@ h1 {
   
 
 nav {
- background-color:black;
+ background-color:silver;
  color: white;
   display:flex-block;
   justify-content: flex-end;
@@ -64,16 +64,16 @@ nav {
   
 
 a {
-color: white;
+color: black;
   padding: 21px ;
   margin:  21px;
 }
   
   a {
-	color: white; text-decoration: blink;
+	color: black; text-decoration: blink;
 }
 	a:hover {
-		color:white;
+		color:silver;
 	}
 
 .jumbotron {
@@ -84,8 +84,8 @@ color: white;
 display :center-block;
 
   background-size:cover;
-  color:white;
-  background-color:white;
+  color:black;
+  background-color:silver;
   height: 11px;
 }
 
@@ -105,14 +105,14 @@ background-image:url('');
 .jumbotron h3 {
   Font-size: 16px;
   margin: 0 0 8px;
-  color: ;yellow
-  background-color:black;
+  color:black;
+  background-color:silver;
   display:center;
  
 }
 
 section .row img {
-  color:white;
+  color:black;
   display: center;
   
 
@@ -122,15 +122,15 @@ section .row img {
 }
 
 .col-md-6 {
-  color: white;
-  background-color:#a6f0af ;
+  color: black;
+  background-color:silver ;
   margin: 0 0 auto;
 }
 
 .btn.btn-primary {
   border-radius: 11px;
   border: 11px;
-  color:white;
+  color:wh;
   background-color:black ;
 }
 
@@ -141,13 +141,13 @@ section .row img {
 }
 
 .btn-secondary {
-  background-color:black ;
-  color:white;
+  background-color:silver ;
+  color:black;
   margin: 0 0 0 7px
 }
 .button {
   display: center;
-  color:white;
+  color:silver;
   }
   
 .portrait {
