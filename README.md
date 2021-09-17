@@ -1,6 +1,6 @@
 # portfolioV2
 ![a1](https://github.com/totoro65/portfolioV2/blob/main/a1.jpeg?raw=true)
-![a2]([a1](https://github.com/totoro65/portfolioV2/blob/main/a2.jpeg?raw=true)
+![a2](https://github.com/totoro65/portfolioV2/blob/main/a2.jpeg?raw=true)
 ![a3](https://github.com/totoro65/portfolioV2/blob/main/a3.jpeg?raw=true)
 ![xavier-cuenca-illustration-5-act2](https://github.com/totoro65/portfolioV2/blob/main/xavier-cuenca-illustration-5-act2.png?raw=true)
 ![other](https://github.com/totoro65/portfolioV2/blob/main/other.jpg?raw=true)
