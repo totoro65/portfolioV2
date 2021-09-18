@@ -1,4 +1,5 @@
 # portfolioV2
+![workzone](https://github.com/totoro65/portfolioV2/blob/main/workzone.jpeg?raw=true)
 ![a1](https://github.com/totoro65/portfolioV2/blob/main/a1.jpeg?raw=true)
 ![a2](https://github.com/totoro65/portfolioV2/blob/main/a2.jpeg?raw=true)
 ![a3](https://github.com/totoro65/portfolioV2/blob/main/a3.jpeg?raw=true)
